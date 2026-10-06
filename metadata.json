@@ -1,0 +1,10 @@
+{
+  "name": "Prism Gallery - Offline Android Photo Manager",
+  "description": "Offline-first Android gallery app with intuitive photo cropping, persistent device storage, editing studio, and permanent photo deletion management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
